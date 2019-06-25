@@ -1,0 +1,5 @@
+menuconfig LIBPSIMD
+    bool "psimd - Portable 128-bit SIMD intrinsics"
+    select LIBINTEL-INTRINSICS
+    default n
+
