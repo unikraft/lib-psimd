@@ -1,0 +1,6 @@
+name        := "psmid"
+description := "Portable 128-bit SIMD intrinsics."
+gitrepo     := "https://github.com/Maratyszcza/psimd.git"
+homepage    := "https://github.com/Maratyszcza/psimd/"
+license     := "MIT"
+version     := 072586a sha256:f6c4dab91ae9a03b3019e7cab0572743afd0e1b6e75b97fcca50259c737c924e https://github.com/Maratyszcza/psimd/archive/072586a.tar.gz
